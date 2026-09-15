@@ -1,0 +1,10 @@
+1 machine1_ip 9080
+2 machine2_ip 9080
+3 machine3_ip 9080
+4 machine4_ip 9080
+5 machine5_ip 9080
+6 machine6_ip 9080
+7 machine7_ip 9080
+8 machine8_ip 9080
+9 machine9_ip 9080
+10 machine10_ip 9080

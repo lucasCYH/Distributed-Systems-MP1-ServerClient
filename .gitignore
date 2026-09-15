@@ -1,0 +1,7 @@
+bins/
+metrics/
+notes.md
+.vscode
+.DS_Store
+*.pdf
+*.log
